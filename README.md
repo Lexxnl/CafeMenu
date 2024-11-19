@@ -26,4 +26,4 @@ This project was created by **Lex Kimmel**, an aspiring web developer from the N
 
 ## View the Project
 You can view the live version of this project here:  
-<a href="https://Lexxnl.github.io/cafemenuapp/" target="_blank">CafeMenuApp Live Demo</a>
+<a href="https://lexxnl.github.io/CafeMenu/" target="_blank">CafeMenuApp Live Demo</a>
